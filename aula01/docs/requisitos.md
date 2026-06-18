@@ -76,13 +76,13 @@ A interface de linha de comando deve apresentar menu textual claro, com opções
 
 O código deve estar organizado de forma que a adição de um novo tipo de equipamento não exija alterações em mais de um módulo do sistema.
 
-> **Observação do analista:** Esta restrição não foi atendida na versão 1.0 entregue — ver PROBLEMAS.md.
+> **Observação do analista:** Esta restrição não foi atendida na versão 1.0 entregue — ver a Tabela de Dívida Técnica no documento de projeto (`projeto.md`, seção 5).
 
 ### RNF04 — Testabilidade
 
 Os módulos de regra de negócio devem poder ser testados de forma isolada, sem dependência de entrada do usuário ou estado externo.
 
-> **Observação do analista:** Esta restrição não foi atendida na versão 1.0 entregue — ver PROBLEMAS.md.
+> **Observação do analista:** Esta restrição não foi atendida na versão 1.0 entregue — ver a Tabela de Dívida Técnica no documento de projeto (`projeto.md`, seção 5).
 
 ### RNF05 — Portabilidade
 
