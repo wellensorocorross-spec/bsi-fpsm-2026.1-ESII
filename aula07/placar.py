@@ -8,3 +8,6 @@ def resultado(gols_casa, gols_fora):
     elif gols_casa < gols_fora:
         return "derrota"
     return "empate"
+def test_empate_quando_o_placar_e_igual():
+    assert resultado(1, 1)=="empate"
+    
