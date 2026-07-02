@@ -32,7 +32,7 @@ A jornada passa por **dívida técnica, princípios SOLID, testes, padrões de p
 | 9 | Padrões de Projeto (Factory, Facade, Strategy, Observer) | [📂 **aula09**](aula09/) |
 | 10 | Refactoring, Code Smells e Pipeline CI/CD | [📂 **aula10**](aula10/) |
 | **11** | **Prova escrita 2** | — |
-| **12** | **Avaliação Substitutiva (recuperação)** | — |
+| **12** | **Avaliação Substitutiva (recuperação)** | [📂 **AS**](AS/) *(código-base; tarefas no dia)* |
 
 ## Avaliação (resumo)
 

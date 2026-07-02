@@ -1,0 +1,13 @@
+# Configuração do linter (ruff) e da cobertura deste projeto.
+# O ruff confere ESTILO (linhas longas, imports/variáveis não usados...).
+# Ele NÃO reclama de "método longo" nem de "nome ruim" — esses são code
+# smells de DESIGN, que só o olho humano e o refactoring resolvem.
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W"]
+
+[tool.coverage.run]
+omit = ["test_*.py"]
